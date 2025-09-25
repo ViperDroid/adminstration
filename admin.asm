@@ -1,6 +1,5 @@
 ; Title: Name: Windows/x86 - Create Administrator User / Dynamic PEB & EDT method null-free Shellcode (373 bytes)
 ; Author: Viper Droid
-; Date: 18/01/2022
 ; Tested on: Microsoft Windows Version 10.0.19045
 
 ; Description:
