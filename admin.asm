@@ -249,7 +249,7 @@ execute_shellcode:
 
 /*
 
- Shellcode runner author: reenz0h (twitter: @sektor7net)
+
 
 */
 #include <windows.h>
